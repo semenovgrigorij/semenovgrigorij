@@ -10,7 +10,8 @@
 
 ![Static Badge](https://img.shields.io/badge/Linkedin-%230A66C2?logo=linkedin&labelColor=%230A66C2)
 
-![Static Badge](https://img.shields.io/badge/Whatsapp-%2325D366?logo=whatsapp&labelColor=%23fff)
+[![Static Badge](https://img.shields.io/badge/Whatsapp-%2325D366?logo=whatsapp&labelColor=%23fff&link=whatsapp%3A%2F%2Fsend%3Fphone%3D%2B380993944809)](whatsapp://send?phone=+380993944809)
+
 
 ### Top Technologies
 
