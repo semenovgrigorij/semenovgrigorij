@@ -6,7 +6,7 @@
 [![Static Badge](https://img.shields.io/badge/Facebook-%230866FF?logo=facebook&labelColor=%230866FF&link=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D100059340843068)](https://www.facebook.com/profile.php?id=100059340843068)
 [![Static Badge](https://img.shields.io/badge/Email-%23EA4335?logo=gmail&labelColor=%23fff&link=semenovgrigorij57%40gmail.com)](semenovgrigorij57@gmail.com)
 ![Static Badge](https://img.shields.io/badge/Linkedin-%230A66C2?logo=linkedin&labelColor=%230A66C2)
-[![Static Badge](https://img.shields.io/badge/Whatsapp-%2325D366?logo=whatsapp&labelColor=%23fff&link=whatsapp%3A%2F%2Fsend%3Fphone%3D%2B380993944809)](whatsapp://send?phone=+380993944809)
+[![Static Badge](https://img.shields.io/badge/Whatsapp-%2325D366?logo=whatsapp&labelColor=%23fff&link=https%3A%2F%2Fapi.whatsapp.com%2Fsend%3Fphone%3D0993944809)](https://api.whatsapp.com/send?phone=0993944809)
 
 
 ### Top Technologies
