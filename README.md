@@ -2,8 +2,10 @@
 
 :mailbox: Reach me out!
 
-![Static Badge](https://img.shields.io/badge/Telegram-%2326A5E4?logo=telegram&labelColor=%23fff&link=https://t.me/semenovgorg)
+![Static Badge](https://img.shields.io/badge/Telegram-%2326A5E4?logo=telegram&labelColor=%23fff&link=https%3A%2F%2Ft.me%2Fsemenovgorg)
+
 (https://t.me/semenovgorg)
+
 ![Static Badge](https://img.shields.io/badge/Facebook-%230866FF?logo=facebook)
 
 [![Static Badge](https://img.shields.io/badge/Email-%23EA4335?logo=gmail&labelColor=%23fff)
