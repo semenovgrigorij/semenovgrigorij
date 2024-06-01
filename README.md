@@ -21,6 +21,11 @@
 ![Static Badge](https://img.shields.io/badge/PHP-%23777BB4?logo=php&labelColor=%23000&link=https%3A%2F%2Fapi.whatsapp.com%2Fsend%3Fphone%3D0993944809)
 
 
+### I'm studying
+
+![Static Badge](https://img.shields.io/badge/SASS-%23CC6699?logo=sass&labelColor=%23000&link=https%3A%2F%2Fapi.whatsapp.com%2Fsend%3Fphone%3D0993944809)
+![Static Badge](https://img.shields.io/badge/VUE.JS-%234FC08D?logo=vuedotjs&labelColor=%23000&link=https%3A%2F%2Fapi.whatsapp.com%2Fsend%3Fphone%3D0993944809)
+
 
 
 
