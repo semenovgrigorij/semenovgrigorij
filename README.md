@@ -8,4 +8,7 @@
 
 ![Static Badge](https://img.shields.io/badge/Email-%23EA4335?logo=gmail&labelColor=%23fff)
 
+![Static Badge](https://img.shields.io/badge/Linkedin-%230A66C2?logo=linkedin&labelColor=%230A66C2)
+
+
 
