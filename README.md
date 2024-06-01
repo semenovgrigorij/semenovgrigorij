@@ -14,6 +14,20 @@
 
 ### Top Technologies
 
+![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?logo=html5&labelColor=%23000)
+
+![Static Badge](https://img.shields.io/badge/CSS3-%231572B6?logo=css3&labelColor=%23000)
+
+![Static Badge](https://img.shields.io/badge/WORDPRESS-%2321759B?logo=wordpress&labelColor=%23000)
+
+![Static Badge](https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E?logo=javascript&labelColor=%23000)
+
+![Static Badge](https://img.shields.io/badge/NODE.JS-%235FA04E?logo=nodedotjs&labelColor=%23000)
+
+
+
+
+
 
 
 
