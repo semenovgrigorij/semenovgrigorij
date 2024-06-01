@@ -15,11 +15,15 @@
 ![Static Badge](https://img.shields.io/badge/CSS3-%231572B6?logo=css3&labelColor=%23000)
 ![Static Badge](https://img.shields.io/badge/WORDPRESS-%2321759B?logo=wordpress&labelColor=%23000)
 
+
 ![Static Badge](https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E?logo=javascript&labelColor=%23000)
 ![Static Badge](https://img.shields.io/badge/NODE.JS-%235FA04E?logo=nodedotjs&labelColor=%23000)
 
 
 
+### Statistics
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=semenovgrigorij&show_icons=true&theme=transparent)
 
 
 
