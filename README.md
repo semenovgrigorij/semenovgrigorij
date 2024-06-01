@@ -12,6 +12,8 @@
 
 ![Static Badge](https://img.shields.io/badge/Whatsapp-%2325D366?logo=whatsapp&labelColor=%23fff)
 
+### Top Technologies
+
 
 
 
